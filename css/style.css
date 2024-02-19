@@ -29,6 +29,18 @@ main {
     gap: 1vw;
 }
 
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: -103%;
+   display: block;
+}
+
 .robotron {
     background: url(../img/estrutura.png) no-repeat;
     background-position: center center;
